@@ -1,4 +1,4 @@
 # Prison-Breakout
-This is a small group project for the graduate-level course "Computer Graphics and Computer Vision". Check out the Github Pages to play:
+This is a small project for the graduate-level course "Computer Graphics and Computer Vision". Check out the Github Pages to play:
 
 https://zitr0y.github.io/Prison-Breakout/
